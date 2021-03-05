@@ -9,7 +9,7 @@ The program then outputs code signifying that "name" is "age" years old.
 
 To use the file open juptyter hub git clone this repository in the command line then open the file and click run on the code.
 
-We chose the do what the fuck you want liscense because we give no shits about this code.
+We chose the do what the fuck you want license because we give no shits about this code.
 We used the covenant code of conduct because everyone uses it and it's the standard.
 Group Members:
 Anderis Dobrowolski
